@@ -1,4 +1,4 @@
-# Harbr QA Challenge #
+# QA Challenge #
 
 The goal of this challenge is to assess that, given a pre-developed application composed by a front-end UI and back-end API, you:
 - are able to create a test environment using the relevant tools, such as Git, npm and node.js;
@@ -11,7 +11,7 @@ Read the application's requirements from the **Requirements.md** file on the roo
 ## Considerations ##
 - The tasks outputs will have to be published in a public git repository. You are free to use any resources you want to research.
 - The task is intended to take no longer than 2 hours. Do not spend more than this time.
-- The automation tasks (2 and 3) are aimed at showcasing your programming and test automation skills. You are free to use any programming language you want, but as we want to make sure you'll be able to use or learn (fast) the tech stacks we use. At Harbr we use JS for our Frontends and Python for our Backend, so using either of them is obviously an extra.
+- The automation tasks (2 and 3) are aimed at showcasing your programming and test automation skills. You are free to use any programming language you want, but as we want to make sure you'll be able to use or learn (fast) the tech stacks we use. We use JS for our Frontends and Python for our Backend, so using either of them is obviously an extra.
 - If you need to make any assumptions please note them as part of your answers.
 
 ## Task 1: Test Environment Setup ##
